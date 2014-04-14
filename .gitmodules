@@ -1,0 +1,6 @@
+[submodule "yabusame-qemu"]
+	path = yabusame-qemu
+	url = https://github.com/grivon/yabusame-qemu.git
+[submodule "yabusame-uvmem"]
+	path = yabusame-uvmem
+	url = https://github.com/grivon/yabusame-uvmem.git
